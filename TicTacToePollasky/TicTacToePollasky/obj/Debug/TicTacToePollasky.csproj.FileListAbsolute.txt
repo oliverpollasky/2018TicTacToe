@@ -1,0 +1,11 @@
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\bin\Debug\TicTacToePollasky.exe.config
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\bin\Debug\TicTacToePollasky.exe
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\bin\Debug\TicTacToePollasky.pdb
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\obj\Debug\TicTacToePollasky.csprojResolveAssemblyReference.cache
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\obj\Debug\TicTacToePollasky.Form1.resources
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\obj\Debug\TicTacToePollasky.Properties.Resources.resources
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\obj\Debug\TicTacToePollasky.csproj.GenerateResource.Cache
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\obj\Debug\TicTacToePollasky.csproj.CoreCompileInputs.cache
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\obj\Debug\TicTacToePollasky.exe
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\obj\Debug\TicTacToePollasky.pdb
+C:\Users\scots\Desktop\TicTacToePollasky\TicTacToePollasky\obj\Debug\TicTacToePollasky.Form2.resources
