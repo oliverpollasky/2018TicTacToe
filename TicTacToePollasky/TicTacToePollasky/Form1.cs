@@ -10,6 +10,12 @@ using System.Windows.Forms;
 
 namespace TicTacToePollasky
 {
+
+
+
+    //help with the AI: https://github.com/OkayAndrew/TicTacToe
+
+
     public partial class Form1 : Form
     {
 
